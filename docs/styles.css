@@ -1,0 +1,52 @@
+/* Accent colour - teal to echo fisheries/ocean */
+:root {
+  --accent: #0f6e56;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 2px solid var(--accent);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  color: var(--accent) !important;
+}
+
+/* Headings */
+h1, h2 {
+  color: var(--accent);
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--accent);
+  border-color: var(--accent);
+}
+
+.btn-primary:hover {
+  background-color: #085041;
+  border-color: #085041;
+}
+
+.btn-outline-primary {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid #dee2e6;
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+/* Quick facts table on home page */
+.columns table {
+  font-size: 0.9rem;
+}

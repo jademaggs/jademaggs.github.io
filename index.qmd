@@ -1,0 +1,59 @@
+---
+title: "Dr Jade Maggs"
+subtitle: "Fisheries Data Scientist | Survey Design | Spatial Analysis | Reproducible Reporting in R"
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+## Welcome
+
+I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in turning raw fisheries data into clean, well-documented datasets and analytical outputs that support stock assessments and fisheries management decisions.
+
+I am based in Brisbane and available for short-term remote consulting engagements. My particular interest is in Pacific fisheries data and monitoring support projects.
+
+### What I do
+
+- **Fisheries data management** — building and maintaining SQL pipelines, PostgreSQL databases, and automated workflows
+- **Recreational survey design** — boat ramp creel surveys, harvest estimation, CPUE standardisation
+- **Spatial analysis** — GIS work in QGIS and R, mapping fisheries distributions and survey effort
+- **Reproducible reporting** — R Markdown and Quarto pipelines that produce audit-ready outputs
+- **Monitoring programme support** — electronic data acquisition, quality control, and delivery
+
+### Get in touch
+
+I am open to consulting enquiries. The best way to reach me is by email at [jademaggs@gmail.com](mailto:jademaggs@gmail.com).
+
+[Download capability statement](assets/jade_maggs_capability_statement.pdf){.btn .btn-primary}
+
+:::
+
+::: {.column width="30%"}
+
+### Quick facts
+
+| | |
+|---|---|
+| **Location** | Brisbane, Australia |
+| **PhD** | Fisheries Science, Rhodes University, 2017 |
+| **h-index** | 13 (Scopus) |
+| **Papers** | 24 peer-reviewed |
+| **Reports** | 81 technical |
+| **Experience** | 18 years |
+
+### Tools
+
+`R` `SQL` `PostgreSQL` `QGIS` `Quarto` `Git` `Power BI` `Linux` `Bash`
+
+### Links
+
+- [ResearchGate](https://www.researchgate.net/profile/Jade_Maggs)
+- [LinkedIn](https://www.linkedin.com/in/jade-maggs-phd-5a091729/)
+- [GitHub](https://github.com/jademaggs)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55250227800)
+
+:::
+
+::::

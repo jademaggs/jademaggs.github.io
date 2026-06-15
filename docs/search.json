@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My full publication list is available on ResearchGate and Scopus.\n\n\n\nPeer-reviewed journal articles\n24\n\n\nTechnical reports\n81\n\n\nConference presentations\n22\n\n\nWorking group presentations\n21\n\n\nBook sections\n1\n\n\nPopular articles\n16\n\n\nScopus h-index\n13"
+  },
+  {
+    "objectID": "publications.html#research-output",
+    "href": "publications.html#research-output",
+    "title": "Publications",
+    "section": "",
+    "text": "My full publication list is available on ResearchGate and Scopus.\n\n\n\nPeer-reviewed journal articles\n24\n\n\nTechnical reports\n81\n\n\nConference presentations\n22\n\n\nWorking group presentations\n21\n\n\nBook sections\n1\n\n\nPopular articles\n16\n\n\nScopus h-index\n13"
+  },
+  {
+    "objectID": "publications.html#research-themes",
+    "href": "publications.html#research-themes",
+    "title": "Publications",
+    "section": "Research themes",
+    "text": "Research themes\nMy published work spans three main areas:\nRecreational fisheries\nSurvey design, harvest estimation, and CPUE standardisation for inshore finfish and rock lobster fisheries in South Africa and New Zealand.\nFish movement and behaviour\nAcoustic telemetry studies on the movement of coastal reef fish species in southern Africa, including implications for MPA design and fisheries management.\nMarine protected areas\nMonitoring fish assemblages in MPAs, evaluating MPA effectiveness, and contributing to MPA network design processes."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected publications",
+    "text": "Selected publications\nA selection of key papers — see ResearchGate for the full list.\n\nView full list on ResearchGate"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Jade Maggs",
+    "section": "",
+    "text": "I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in turning raw fisheries data into clean, well-documented datasets and analytical outputs that support stock assessments and fisheries management decisions.\nI am based in Brisbane and available for short-term remote consulting engagements. My particular interest is in Pacific fisheries data and monitoring support projects.\n\n\n\nFisheries data management — building and maintaining SQL pipelines, PostgreSQL databases, and automated workflows\nRecreational survey design — boat ramp creel surveys, harvest estimation, CPUE standardisation\nSpatial analysis — GIS work in QGIS and R, mapping fisheries distributions and survey effort\nReproducible reporting — R Markdown and Quarto pipelines that produce audit-ready outputs\nMonitoring programme support — electronic data acquisition, quality control, and delivery\n\n\n\n\nI am open to consulting enquiries. The best way to reach me is by email at jademaggs@gmail.com.\nDownload capability statement\n\n\n\n\n\n\n\n\nLocation\nBrisbane, Australia\n\n\nPhD\nFisheries Science, Rhodes University, 2017\n\n\nh-index\n13 (Scopus)\n\n\nPapers\n24 peer-reviewed\n\n\nReports\n81 technical\n\n\nExperience\n18 years\n\n\n\n\n\n\nR SQL PostgreSQL QGIS Quarto Git Power BI Linux Bash\n\n\n\n\nResearchGate\nLinkedIn\nGitHub\nScopus"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Dr Jade Maggs",
+    "section": "",
+    "text": "I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in turning raw fisheries data into clean, well-documented datasets and analytical outputs that support stock assessments and fisheries management decisions.\nI am based in Brisbane and available for short-term remote consulting engagements. My particular interest is in Pacific fisheries data and monitoring support projects.\n\n\n\nFisheries data management — building and maintaining SQL pipelines, PostgreSQL databases, and automated workflows\nRecreational survey design — boat ramp creel surveys, harvest estimation, CPUE standardisation\nSpatial analysis — GIS work in QGIS and R, mapping fisheries distributions and survey effort\nReproducible reporting — R Markdown and Quarto pipelines that produce audit-ready outputs\nMonitoring programme support — electronic data acquisition, quality control, and delivery\n\n\n\n\nI am open to consulting enquiries. The best way to reach me is by email at jademaggs@gmail.com.\nDownload capability statement"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a fisheries scientist and data professional with 18 years of experience spanning South Africa, New Zealand, and Australia. My career has been built at the intersection of field science, data management, and quantitative analysis — producing the clean, well-documented outputs that underpin stock assessments and fisheries management decisions.\nI hold a PhD in Fisheries Science from Rhodes University (2017), where my research focused on the movement of coastal fishery species in southern Africa. Before that I completed an MSc in Biology at the University of KwaZulu-Natal and a BSc in Zoology at the University of South Africa."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I am a fisheries scientist and data professional with 18 years of experience spanning South Africa, New Zealand, and Australia. My career has been built at the intersection of field science, data management, and quantitative analysis — producing the clean, well-documented outputs that underpin stock assessments and fisheries management decisions.\nI hold a PhD in Fisheries Science from Rhodes University (2017), where my research focused on the movement of coastal fishery species in southern Africa. Before that I completed an MSc in Biology at the University of KwaZulu-Natal and a BSc in Zoology at the University of South Africa."
+  },
+  {
+    "objectID": "about.html#career-history",
+    "href": "about.html#career-history",
+    "title": "About",
+    "section": "Career history",
+    "text": "Career history\nFisheries Queensland, Department of Primary Industries — Brisbane, 2025–present\nMember of the Fisheries Monitoring Team. Building automated data tracking workflows using Power Automate and Power BI, supporting cloud data migration to Azure and Microsoft Fabric, and contributing to boat ramp recreational fisheries data collection.\nEarth Sciences New Zealand (formerly NIWA) — Wellington/Auckland, 2020–2025\nGroup Manager and Fisheries Scientist. Led national boat ramp creel surveys, recreational harvest estimation, and CPUE standardisation projects. Managed all fisheries data from research and observer programmes for NIWA and Fisheries New Zealand. Led development of PostgreSQL databases and electronic data acquisition systems. Managed teams of five to six staff.\nMinistry for Primary Industries, New Zealand — Wellington, 2019–2020\nSenior Analyst contributing to ecosystem-based fisheries management approaches and Marine Protected Area science advisory work.\nOceanographic Research Institute — Durban, South Africa, 2006–2018\nTwelve years of progressive roles in recreational fisheries monitoring, MPA surveys, biological sampling, and database development. Delivered postgraduate lectures on fisheries stock assessment and R programming at the University of KwaZulu-Natal."
+  },
+  {
+    "objectID": "about.html#consulting",
+    "href": "about.html#consulting",
+    "title": "About",
+    "section": "Consulting",
+    "text": "Consulting\nI am registered under an ABN and available for short-term remote engagements (5–30 days). I have a particular interest in Pacific fisheries data and monitoring support projects, including work with international agencies and donor-funded programmes.\nFor enquiries, contact me at jademaggs@gmail.com."
+  },
+  {
+    "objectID": "about.html#qualifications",
+    "href": "about.html#qualifications",
+    "title": "About",
+    "section": "Qualifications",
+    "text": "Qualifications\n\nPhD (Fisheries Science) — Rhodes University, South Africa, 2017\nMSc (Biology) — University of KwaZulu-Natal, 2011\nBSc (Zoology) — University of South Africa, 2009"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section will showcase worked analyses using publicly available fisheries data, demonstrating applied skills in data management, spatial analysis, and reproducible reporting in R.\nComing soon.\n\nIn the meantime, see my Publications page for peer-reviewed research output, or download my capability statement for a summary of technical skills and consulting availability."
+  },
+  {
+    "objectID": "portfolio.html#worked-analyses",
+    "href": "portfolio.html#worked-analyses",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section will showcase worked analyses using publicly available fisheries data, demonstrating applied skills in data management, spatial analysis, and reproducible reporting in R.\nComing soon.\n\nIn the meantime, see my Publications page for peer-reviewed research output, or download my capability statement for a summary of technical skills and consulting availability."
+  }
+]

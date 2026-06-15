@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr Jade Maggs"
+  description: "Fisheries Data Scientist | Survey Design, Spatial Analysis, Reproducible Reporting in R"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: portfolio.qmd
+        text: Portfolio
+    right:
+      - icon: github
+        href: https://github.com/jademaggs
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jade-maggs-phd-5a091729/
+
+  page-footer:
+    center: "Dr Jade Maggs | Brisbane, Australia | jademaggs@gmail.com"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

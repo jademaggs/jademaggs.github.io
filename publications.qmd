@@ -1,0 +1,40 @@
+---
+title: "Publications"
+---
+
+## Research output
+
+My full publication list is available on [ResearchGate](https://www.researchgate.net/profile/Jade_Maggs) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55250227800).
+
+| | |
+|---|---|
+| Peer-reviewed journal articles | 24 |
+| Technical reports | 81 |
+| Conference presentations | 22 |
+| Working group presentations | 21 |
+| Book sections | 1 |
+| Popular articles | 16 |
+| **Scopus h-index** | **13** |
+
+## Research themes
+
+My published work spans three main areas:
+
+**Recreational fisheries**  
+Survey design, harvest estimation, and CPUE standardisation for inshore finfish and rock lobster fisheries in South Africa and New Zealand.
+
+**Fish movement and behaviour**  
+Acoustic telemetry studies on the movement of coastal reef fish species in southern Africa, including implications for MPA design and fisheries management.
+
+**Marine protected areas**  
+Monitoring fish assemblages in MPAs, evaluating MPA effectiveness, and contributing to MPA network design processes.
+
+## Selected publications
+
+*A selection of key papers — see ResearchGate for the full list.*
+
+<!-- Add individual papers here as needed, e.g.:
+**Maggs, J.Q.** et al. (2020). Title of paper. *Journal Name*, 00(0), 000--000. [DOI](https://doi.org/...)
+-->
+
+[View full list on ResearchGate](https://www.researchgate.net/profile/Jade_Maggs){.btn .btn-outline-primary}
