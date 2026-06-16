@@ -33,3 +33,5 @@ For enquiries, contact me at [jademaggs@gmail.com](mailto:jademaggs@gmail.com).
 - PhD (Fisheries Science) — Rhodes University, South Africa, 2017
 - MSc (Biology) — University of KwaZulu-Natal, 2011
 - BSc (Zoology) — University of South Africa, 2009
+
+[Download CV](assets/jade_maggs_cv.pdf){.btn .btn-outline-primary}

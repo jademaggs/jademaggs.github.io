@@ -15,7 +15,9 @@ Built with [Quarto](https://quarto.org) and hosted on GitHub Pages.
 ├── portfolio.qmd        # Worked analyses (in progress)
 ├── styles.css           # Custom styling
 ├── assets/              # PDFs and other static files
-│   └── jade_maggs_capability_statement.pdf
+│   ├── jade_maggs_capability_statement.pdf
+│   ├── jade_maggs_cv.pdf
+│   └── jade_maggs_publications.pdf
 └── docs/                # Rendered site (GitHub Pages serves this)
 ```
 
