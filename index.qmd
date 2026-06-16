@@ -1,6 +1,6 @@
 ---
 title: "Dr Jade Maggs"
-subtitle: "Fisheries Data Scientist | Survey Design | Spatial Analysis | Reproducible Reporting in R"
+subtitle: "Fisheries Scientist | Recreational Fisheries Monitoring | Database Development & Data Analysis"
 page-layout: full
 ---
 

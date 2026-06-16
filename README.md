@@ -1,6 +1,6 @@
 # jademaggs.github.io
 
-Personal website and professional portfolio for Dr Jade Maggs — Fisheries Data Scientist.
+Personal website and professional portfolio for Dr Jade Maggs, Fisheries Scientist.
 
 Built with [Quarto](https://quarto.org) and hosted on GitHub Pages.
 

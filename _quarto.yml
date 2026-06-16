@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dr Jade Maggs"
-  description: "Fisheries Data Scientist | Survey Design, Spatial Analysis, Reproducible Reporting in R"
+  description: "Fisheries Scientist | Recreational Fisheries Monitoring | Database Development & Data Analysis"
   navbar:
     left:
       - href: index.qmd
