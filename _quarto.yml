@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dr Jade Maggs"
-  description: "Fisheries Data Scientist | Fisheries Science and Monitoring, Data Engineering and Architecture, Analysis and Reporting, Workflows and Automation"
+  description: "Fisheries Data Scientist | Fisheries Science & Monitoring, Data Systems & Information Management, Analytics & Decision Support, Automation & Digital Solutions"
   navbar:
     left:
       - href: index.qmd

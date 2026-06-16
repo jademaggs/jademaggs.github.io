@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ::: {.role-categories}
-Fisheries Science and Monitoring | Data Engineering and Architecture | Analysis and Reporting | Workflows and Automation
+Fisheries Science & Monitoring | Data Systems & Information Management | Analytics & Decision Support | Automation & Digital Solutions
 :::
 
 :::: {.columns}
@@ -20,12 +20,10 @@ I am based in Brisbane, registered under an Australian ABN, and available for sh
 
 ### What I do
 
-- **Fisheries data management** (pipeline development, PostgreSQL and MS SQL Server database architecture)
-- **Recreational survey design** (boat ramp creel surveys, harvest estimation, GLM and CPUE standardisation)
-- **Spatial analysis** (GIS work in QGIS and R, mapping fisheries distributions and survey effort)
-- **Reproducible reporting** (R Markdown and Quarto pipelines that produce audit-ready outputs)
-- **Monitoring programme support** (electronic data acquisition system implementation, quality control, and delivery)
-- **Version control and workflow automation** (Git-based version control, Power BI dashboards, Power Automate workflows)
+- **Fisheries Science & Monitoring**: Design, implementation and evaluation of fisheries monitoring programmes, including boat ramp creel surveys, harvest estimation, and electronic data acquisition systems.
+- **Data Systems & Information Management**: Database architecture, data governance and fisheries information systems, built on PostgreSQL and MS SQL Server.
+- **Analytics & Decision Support**: Statistical analysis, modelling, visualisation and reporting, including GLM and CPUE standardisation, GIS and spatial analysis, and R Markdown/Quarto reporting.
+- **Automation & Digital Solutions**: Workflow automation, AI-enabled processes and operational efficiency, including Git-based version control and Power BI/Power Automate workflows.
 
 ### Get in touch
 
