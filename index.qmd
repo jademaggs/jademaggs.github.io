@@ -1,8 +1,12 @@
 ---
 title: "Dr Jade Maggs"
-subtitle: "Fisheries Scientist | Recreational Fisheries Monitoring | Database Development & Data Analysis"
+subtitle: "Fisheries Data Scientist"
 page-layout: full
 ---
+
+::: {.role-categories}
+Fisheries Science and Monitoring | Data Engineering and Architecture | Analysis and Reporting | Workflows
+:::
 
 :::: {.columns}
 
