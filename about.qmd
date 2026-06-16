@@ -4,34 +4,32 @@ title: "About"
 
 ## Background
 
-I am a fisheries scientist and data professional with 18 years of experience spanning South Africa, New Zealand, and Australia. My career has been built at the intersection of field science, data management, and quantitative analysis — producing the clean, well-documented outputs that underpin stock assessments and fisheries management decisions.
-
-I hold a PhD in Fisheries Science from Rhodes University (2017), where my research focused on the movement of coastal fishery species in southern Africa. Before that I completed an MSc in Biology at the University of KwaZulu-Natal and a BSc in Zoology at the University of South Africa.
+I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in recreational fisheries survey design and harvest estimation, including the design and delivery of national-scale boat ramp creel survey programmes, fisheries database development, spatial analysis and mapping, and data analysis and modelling. I work primarily in R, SQL, and QGIS.
 
 ## Career history
 
-**Fisheries Queensland, Department of Primary Industries** — Brisbane, 2025--present  
+**Fisheries Queensland, Department of Primary Industries** (Brisbane, 2025-present)\
 Member of the Fisheries Monitoring Team. Building automated data tracking workflows using Power Automate and Power BI, supporting cloud data migration to Azure and Microsoft Fabric, and contributing to boat ramp recreational fisheries data collection.
 
-**Earth Sciences New Zealand (formerly NIWA)** — Wellington/Auckland, 2020--2025  
+**Earth Sciences New Zealand (formerly NIWA)** (Wellington/Auckland, 2020-2025)\
 Group Manager and Fisheries Scientist. Led national boat ramp creel surveys, recreational harvest estimation, and CPUE standardisation projects. Managed all fisheries data from research and observer programmes for NIWA and Fisheries New Zealand. Led development of PostgreSQL databases and electronic data acquisition systems. Managed teams of five to six staff.
 
-**Ministry for Primary Industries, New Zealand** — Wellington, 2019--2020  
+**Ministry for Primary Industries, New Zealand** (Wellington, 2019-2020)\
 Senior Analyst contributing to ecosystem-based fisheries management approaches and Marine Protected Area science advisory work.
 
-**Oceanographic Research Institute** — Durban, South Africa, 2006--2018  
+**Oceanographic Research Institute** (Durban, South Africa, 2006-2018)\
 Twelve years of progressive roles in recreational fisheries monitoring, MPA surveys, biological sampling, and database development. Delivered postgraduate lectures on fisheries stock assessment and R programming at the University of KwaZulu-Natal.
 
 ## Consulting
 
-I am registered under an ABN and available for short-term remote engagements (5--30 days). I have a particular interest in Pacific fisheries data and monitoring support projects, including work with international agencies and donor-funded programmes.
+Now available for short-term remote engagements, with a particular interest in Pacific fisheries data and monitoring projects. Registered under an Australian ABN. References available on request.
 
 For enquiries, contact me at [jademaggs@gmail.com](mailto:jademaggs@gmail.com).
 
 ## Qualifications
 
-- PhD (Fisheries Science) — Rhodes University, South Africa, 2017
-- MSc (Biology) — University of KwaZulu-Natal, 2011
-- BSc (Zoology) — University of South Africa, 2009
+- PhD (Fisheries Science), Rhodes University, South Africa, 2017
+- MSc (Biology), University of KwaZulu-Natal, 2011
+- BSc (Zoology, specialising in environmental management), University of South Africa, 2009
 
-[Download CV](assets/jade_maggs_cv.pdf){.btn .btn-outline-primary}
+[Download CV](assets/jade_maggs_cv_consulting.pdf){.btn .btn-outline-primary}

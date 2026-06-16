@@ -10,17 +10,18 @@ page-layout: full
 
 ## Welcome
 
-I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in turning raw fisheries data into clean, well-documented datasets and analytical outputs that support stock assessments and fisheries management decisions.
+I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in recreational fisheries survey design and harvest estimation, including the design and delivery of national-scale boat ramp creel survey programmes, fisheries database development, spatial analysis and mapping, and data analysis and modelling. I work primarily in R, SQL, and QGIS.
 
-I am based in Brisbane and available for short-term remote consulting engagements. My particular interest is in Pacific fisheries data and monitoring support projects.
+I am based in Brisbane, registered under an Australian ABN, and available for short-term remote consulting engagements. My particular interest is in Pacific fisheries data and monitoring support projects.
 
 ### What I do
 
-- **Fisheries data management** — building and maintaining SQL pipelines, PostgreSQL databases, and automated workflows
-- **Recreational survey design** — boat ramp creel surveys, harvest estimation, CPUE standardisation
-- **Spatial analysis** — GIS work in QGIS and R, mapping fisheries distributions and survey effort
-- **Reproducible reporting** — R Markdown and Quarto pipelines that produce audit-ready outputs
-- **Monitoring programme support** — electronic data acquisition, quality control, and delivery
+- **Fisheries data management** (pipeline development, PostgreSQL and MS SQL Server database architecture)
+- **Recreational survey design** (boat ramp creel surveys, harvest estimation, GLM and CPUE standardisation)
+- **Spatial analysis** (GIS work in QGIS and R, mapping fisheries distributions and survey effort)
+- **Reproducible reporting** (R Markdown and Quarto pipelines that produce audit-ready outputs)
+- **Monitoring programme support** (electronic data acquisition system implementation, quality control, and delivery)
+- **Version control and workflow automation** (Git-based version control, Power BI dashboards, Power Automate workflows)
 
 ### Get in touch
 
@@ -45,7 +46,7 @@ I am open to consulting enquiries. The best way to reach me is by email at [jade
 
 ### Tools
 
-`R` `SQL` `PostgreSQL` `QGIS` `Quarto` `Git` `Power BI` `Linux` `Bash`
+`R` `SQL` `PostgreSQL` `MS SQL Server` `Azure` `Microsoft Fabric` `QGIS` `R Markdown` `Quarto` `Git` `GitLab` `Power BI` `Power Automate` `Linux` `Bash` `LaTeX`
 
 ### Links
 
