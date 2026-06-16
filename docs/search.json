@@ -42,37 +42,37 @@
     "text": "Welcome\nI am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia, specialising in fisheries monitoring, data systems, analytics, and automation. I am based in Brisbane, registered under an Australian ABN, and available for short-term remote consulting engagements, with a particular interest in Pacific fisheries data and monitoring support projects.\n\nWhat I do\n\nFisheries Science & Monitoring: Design, implementation and evaluation of fisheries monitoring programmes, including boat ramp creel surveys, harvest estimation, and electronic data acquisition systems.\nData Systems & Information Management: Database architecture, data governance and fisheries information systems, built on PostgreSQL and MS SQL Server.\nAnalytics & Decision Support: Statistical analysis, modelling, visualisation and reporting, including GLM and CPUE standardisation, GIS and spatial analysis, and R Markdown/Quarto reporting.\nAutomation & Digital Solutions: Workflow automation, AI-enabled processes and operational efficiency, including Git-based version control and Power BI/Power Automate workflows.\n\n\n\nGet in touch\nI am open to consulting enquiries. The best way to reach me is by email at jademaggs@gmail.com.\nDownload capability statement"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in recreational fisheries survey design and harvest estimation, including the design and delivery of national-scale boat ramp creel survey programmes, fisheries database development, spatial analysis and mapping, and data analysis and modelling. I work primarily in R, SQL, and QGIS."
+    "text": "My career spans 18 years across South Africa, New Zealand, and Australia, progressing from field-based fisheries science roles to data systems leadership. Throughout, my focus has been on producing the reliable data, databases, and analysis that underpin fisheries management decisions. Below is a summary of my career history, qualifications, and consulting availability."
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About",
+    "objectID": "experience.html#background",
+    "href": "experience.html#background",
+    "title": "Experience",
     "section": "",
-    "text": "I am a fisheries scientist and data professional with 18 years of experience across South Africa, New Zealand, and Australia. I specialise in recreational fisheries survey design and harvest estimation, including the design and delivery of national-scale boat ramp creel survey programmes, fisheries database development, spatial analysis and mapping, and data analysis and modelling. I work primarily in R, SQL, and QGIS."
+    "text": "My career spans 18 years across South Africa, New Zealand, and Australia, progressing from field-based fisheries science roles to data systems leadership. Throughout, my focus has been on producing the reliable data, databases, and analysis that underpin fisheries management decisions. Below is a summary of my career history, qualifications, and consulting availability."
   },
   {
-    "objectID": "about.html#career-history",
-    "href": "about.html#career-history",
-    "title": "About",
+    "objectID": "experience.html#career-history",
+    "href": "experience.html#career-history",
+    "title": "Experience",
     "section": "Career history",
     "text": "Career history\nFisheries Queensland, Department of Primary Industries (Brisbane, 2025-present)\nMember of the Fisheries Monitoring Team. Building automated data tracking workflows using Power Automate and Power BI, supporting cloud data migration to Azure and Microsoft Fabric, and contributing to boat ramp recreational fisheries data collection.\nEarth Sciences New Zealand (formerly NIWA) (Wellington/Auckland, 2020-2025)\nGroup Manager and Fisheries Scientist. Led national boat ramp creel surveys, recreational harvest estimation, and CPUE standardisation projects. Managed all fisheries data from research and observer programmes for NIWA and Fisheries New Zealand. Led development of PostgreSQL databases and electronic data acquisition systems. Managed teams of five to six staff.\nMinistry for Primary Industries, New Zealand (Wellington, 2019-2020)\nSenior Analyst contributing to ecosystem-based fisheries management approaches and Marine Protected Area science advisory work.\nOceanographic Research Institute (Durban, South Africa, 2006-2018)\nTwelve years of progressive roles in recreational fisheries monitoring, MPA surveys, biological sampling, and database development. Delivered postgraduate lectures on fisheries stock assessment and R programming at the University of KwaZulu-Natal."
   },
   {
-    "objectID": "about.html#consulting",
-    "href": "about.html#consulting",
-    "title": "About",
+    "objectID": "experience.html#consulting",
+    "href": "experience.html#consulting",
+    "title": "Experience",
     "section": "Consulting",
     "text": "Consulting\nNow available for short-term remote engagements, with a particular interest in Pacific fisheries data and monitoring projects. Registered under an Australian ABN. References available on request.\nFor enquiries, contact me at jademaggs@gmail.com."
   },
   {
-    "objectID": "about.html#qualifications",
-    "href": "about.html#qualifications",
-    "title": "About",
+    "objectID": "experience.html#qualifications",
+    "href": "experience.html#qualifications",
+    "title": "Experience",
     "section": "Qualifications",
     "text": "Qualifications\n\nPhD (Fisheries Science), Rhodes University, South Africa, 2017\nMSc (Biology), University of KwaZulu-Natal, 2011\nBSc (Zoology, specialising in environmental management), University of South Africa, 2009\n\nDownload CV"
   },
