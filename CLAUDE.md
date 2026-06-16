@@ -16,11 +16,11 @@ Current assets:
 - `jade_maggs_capability_statement.pdf` (linked from home page and portfolio page)
 - `jade_maggs_cv_consulting.pdf` (linked from Experience page; the CV that downloads when visitors click "Download CV")
 - `jade_maggs_cv.pdf` (academic CV, kept in assets but not currently linked from any page)
-- `jade_maggs_publications.pdf` (kept as backup; citations are now rendered inline on the Publications page)
+- `jade_maggs_publications.pdf` (kept as backup; citations are now rendered inline on the Research page)
 
-### Publications page
+### Research page
 
-The selected publications list in `publications.qmd` is sourced from the `curriculum_vitae` GitHub repo (`jademaggs/curriculum_vitae`, private), specifically `jade_maggs_publications.tex`. Update from there when new publications are added.
+`research.qmd` (renamed from `publications.qmd`) is ordered: Research themes, then Research output summary table, then Selected publications. The selected publications list is sourced from the `curriculum_vitae` GitHub repo (`jademaggs/curriculum_vitae`, private), specifically `jade_maggs_publications.tex`. Update from there when new publications are added.
 
 ### Styling
 

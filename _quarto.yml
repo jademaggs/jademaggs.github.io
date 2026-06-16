@@ -11,8 +11,8 @@ website:
         text: Home
       - href: experience.qmd
         text: Experience
-      - href: publications.qmd
-        text: Publications
+      - href: research.qmd
+        text: Research
       - href: portfolio.qmd
         text: Portfolio
     right:

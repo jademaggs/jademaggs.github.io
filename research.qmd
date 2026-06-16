@@ -1,6 +1,19 @@
 ---
-title: "Publications"
+title: "Research"
 ---
+
+## Research themes
+
+My published work spans three main areas:
+
+**Recreational fisheries**
+Survey design, harvest estimation, and CPUE standardisation for inshore finfish and rock lobster fisheries in South Africa and New Zealand.
+
+**Fish movement and behaviour**
+Acoustic telemetry studies on the movement of coastal reef fish species in southern Africa, including implications for MPA design and fisheries management.
+
+**Marine protected areas**
+Monitoring fish assemblages in MPAs, evaluating MPA effectiveness, and contributing to MPA network design processes.
 
 ## Research output
 
@@ -15,19 +28,6 @@ My full publication list is available on [ResearchGate](https://www.researchgate
 | Book sections | 1 |
 | Popular articles | 16 |
 | **Scopus h-index** | **13** |
-
-## Research themes
-
-My published work spans three main areas:
-
-**Recreational fisheries**  
-Survey design, harvest estimation, and CPUE standardisation for inshore finfish and rock lobster fisheries in South Africa and New Zealand.
-
-**Fish movement and behaviour**  
-Acoustic telemetry studies on the movement of coastal reef fish species in southern Africa, including implications for MPA design and fisheries management.
-
-**Marine protected areas**  
-Monitoring fish assemblages in MPAs, evaluating MPA effectiveness, and contributing to MPA network design processes.
 
 ## Selected publications
 
