@@ -6,7 +6,7 @@
 
 The source files are `.qmd` files. Rendered HTML lives in `docs/` and is what GitHub Pages serves. When Quarto is not available to render, update both the `.qmd` source AND the corresponding file in `docs/` manually so they stay in sync.
 
-**Quarto is not currently on the system PATH.** Until this is resolved, all edits must be made to both the `.qmd` source file and its corresponding `docs/*.html` file manually.
+**Quarto must be run via PowerShell, not the Bash tool.** Use `quarto render` in a PowerShell command — it will not be found by Bash. After rendering, commit the updated `docs/` files.
 
 ### PDF assets
 
