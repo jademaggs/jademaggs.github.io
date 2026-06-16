@@ -13,8 +13,6 @@ website:
         text: Experience
       - href: research.qmd
         text: Research
-      - href: portfolio.qmd
-        text: Portfolio
     right:
       - icon: github
         href: https://github.com/jademaggs

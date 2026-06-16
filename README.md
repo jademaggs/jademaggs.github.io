@@ -12,7 +12,6 @@ Built with [Quarto](https://quarto.org) and hosted on GitHub Pages.
 ├── index.qmd            # Home page
 ├── experience.qmd       # Career history, qualifications, consulting
 ├── research.qmd         # Research themes, output summary, selected publications
-├── portfolio.qmd        # Worked analyses (in progress)
 ├── styles.css           # Custom styling
 ├── assets/              # PDFs and other static files
 │   ├── jade_maggs_capability_statement.pdf

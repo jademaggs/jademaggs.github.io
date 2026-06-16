@@ -13,7 +13,7 @@ The source files are `.qmd` files. Rendered HTML lives in `docs/` and is what Gi
 PDFs in `assets/` are the Quarto source copies. On `quarto render`, they are copied automatically to `docs/assets/`. If rendering manually, copy new PDFs to both locations.
 
 Current assets:
-- `jade_maggs_capability_statement.pdf` (linked from home page and portfolio page)
+- `jade_maggs_capability_statement.pdf` (linked from home page)
 - `jade_maggs_cv_consulting.pdf` (linked from Experience page; the CV that downloads when visitors click "Download CV")
 - `jade_maggs_cv.pdf` (academic CV, kept in assets but not currently linked from any page)
 - `jade_maggs_publications.pdf` (kept as backup; citations are now rendered inline on the Research page)
